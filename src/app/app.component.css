@@ -1,0 +1,19 @@
+app-search {
+    width: 100%;
+}
+
+header {
+    padding: 1rem;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+.title {
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.sub-title {
+    font-size: 1rem;
+}
+
